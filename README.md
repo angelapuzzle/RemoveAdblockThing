@@ -40,7 +40,7 @@ Once you've installed and enabled the userscript, it should start working automa
 If you have any suggestions, bug reports, or want to contribute to this userscript, feel free to create issues or pull requests in this GitHub repository.
 
 Contributors
-- [AngelPuzzle](https://github.com/angelapuzzle)
+- [AngelaPuzzle](https://github.com/angelapuzzle)
 
 ## License
 
